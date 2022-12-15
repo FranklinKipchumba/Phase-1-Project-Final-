@@ -3,7 +3,7 @@
         "id" : 0,
         "img" : '/images/redmiK20.jpg',
         "name" : 'Redmi K20',
-        "price" : 190,
+        "price" : 190, 
         "save" : 25,
         "delievery" : 'In 3 - 4 days',
         "itemInCart": false
